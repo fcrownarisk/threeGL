@@ -1,4 +1,4 @@
-import gleam/io
+
 class Red(){
           element1=
                  [[1][0][0][0],
