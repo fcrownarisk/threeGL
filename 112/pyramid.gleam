@@ -46,5 +46,3 @@ const pyramid9 = [[1][1][1][1][1][1][1][1][1],
                   [1][2][3][3][3][3][3][2][1],
                   [1][2][2][2][2][2][2][2][1],
                   [1][1][1][1][1][1][1][1][1]]
-                  
-println(pyramid3,pyramid4,pyramid5,pyramid6,pyramid4,pyramid5,pyramid6,pyramid7,pyramid8,pyramid9)
