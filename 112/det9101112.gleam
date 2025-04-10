@@ -1,4 +1,4 @@
-import gleam/io
+
 const det9 =
 [1][1]
 [0][1]
@@ -11,4 +11,3 @@ const det11 =
 const det12 =
 [1][1]
 [1][1]
-println(det9,det10,det11,det12)
