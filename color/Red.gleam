@@ -1,5 +1,5 @@
 import gleam/io
-class Red{
+class Red(){
           element1=
                  [[1][0][0][0],
                   [0][1][0][0],
@@ -24,4 +24,3 @@ class Red{
                   [1][0][0][0],
                   [0][1][0][0]]
 }
-println('element1','element2','element3','element4')
