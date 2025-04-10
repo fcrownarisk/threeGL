@@ -1,4 +1,4 @@
-import gleam/io
+
 class anti{
     element13 =
            [[1][0][1][0],
@@ -48,4 +48,3 @@ class anti{
             [0][1][0][0],
             [0][0][1][0]]
 }
-println('element13','element14','element15','element16','element17','element18','element19','element20')
