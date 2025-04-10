@@ -1,6 +1,5 @@
 
-import gleam/io
-class Green{
+class Green(){
      element5 =
            [[1][0][1][0],
             [0][1][0][0],
@@ -24,5 +23,4 @@ class Green{
             [1][0][1][0],
             [0][0][0][1]]
 }
-println('Green',element5,element6,element7,element8)
 
