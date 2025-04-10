@@ -13,4 +13,3 @@ const antitri3 = [[1][1][1],
 const antitri4 = [[0][1][1],
                   [1][0][1],
                   [0][1][1]]
-println(antitri1,antitri2,antitri3,antitri4)
