@@ -1,5 +1,5 @@
 import gleam/io
-    function antiinoutensor(){
+pub fn antiinoutensor(){
        [[13][12][11][10][25],
         [14][3][2][9][24],
         [15][4][1][8][23],
