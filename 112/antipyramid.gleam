@@ -51,5 +51,3 @@ const pyramid54321 =
                  [5][4][3][3][3][3][3][4][5],
                  [5][4][4][4][4][4][4][4][5],
                  [5][5][5][5][5][5][5][5][5]]
-
-println(pyramid21,pyramid211,pyramid321,pyramid3211,pyramid432,pyramid4321,pyramid54321)
